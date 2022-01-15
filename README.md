@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AliyahAmir01
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning more about coding with the help of Free Code Camp 
-- 💞️ I’m looking to collaborate on beginner projects
-- 📫 How to reach me ...
+- 🌱 I’m currently studying computer science with software engineering at RHUL
 
 <!---
 AliyahAmir01/AliyahAmir01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
